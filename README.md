@@ -1,4 +1,4 @@
-business analytics (excel,sql,powerbi)
+Business analytics (excel,sql,powerbi)
 
 This project delivers an end to end business analytics solution by integrating sales, customer, and product data to generate actionable insights through structured analysis and interactive dashboards.
 
