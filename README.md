@@ -1,6 +1,6 @@
 business analytics (excel,sql,powerbi)
 
-This project delivers an end-to-end business analytics solution by integrating sales, customer, and product data to generate actionable insights through structured analysis and interactive dashboards.
+This project delivers an end to end business analytics solution by integrating sales, customer, and product data to generate actionable insights through structured analysis and interactive dashboards.
 
 About the Data
 Three relational tables: customers, products, and sales, linked using primary and foreign keys.
